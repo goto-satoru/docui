@@ -23,7 +23,7 @@ yum install golang
 
 ### Add ~/.bashrc
 ```
-# add thises to ~/.bashrc
+# add following to ~/.bashrc
 export GOPATH=/to/your/path
 export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOBIN
